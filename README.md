@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyasuchale" alt="shreyasuchale" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>shreyasuchale@gmail.com
+<h3 align="left">Connect with me:</h3>www.linkedin.com/in/
+shreyasuchale
+Vanity URL name
+
 <p align="left">
 </p>
 
